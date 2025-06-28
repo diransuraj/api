@@ -1,6 +1,6 @@
 # Food Delivery Chatbot (Codebasics Tutorial)
 
-This project is a food delivery chatbot developed as part of the [Codebasics Dialogflow tutorial](https://www.youtube.com/playlist?list=PLKNkd5F7wWym0WBRbDT79N4nQXsDMyx7v). It leverages **Dialogflow** for conversational AI, **FastAPI** for the webhook backend, and **MySQL** for persistent storage of orders, enabling users to place, modify, complete, and track food orders in a simulated restaurant environment, Pandeyji Eatery.
+This project is a food delivery chatbot developed as part of the [Codebasics Dialogflow tutorial](https://www.youtube.com/watch?v=2e5pQqBvGco&list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX&index=34). It leverages **Dialogflow** for conversational AI, **FastAPI** for the webhook backend, and **MySQL** for persistent storage of orders, enabling users to place, modify, complete, and track food orders in a simulated restaurant environment, Pandeyji Eatery.
 
 ## Project Statement
 Developed a conversational food delivery chatbot over 4 weeks, integrating Dialogflow with a FastAPI backend and MySQL database to handle order management and tracking. Independently implemented webhook handlers for adding, removing, completing, and tracking orders, ensuring seamless interaction with a MySQL database storing over 100 order records. Designed and tested intents to process user inputs (e.g., "Add 2 pizzas", "Track order 42") and surfaced insights on order patterns, enabling recommendations for menu optimization and order processing efficiency.
@@ -148,7 +148,7 @@ food-delivery-chatbot/
 - Deploy to Heroku or AWS for a stable webhook.
 
 ## Acknowledgments
-Built following the [Codebasics Dialogflow tutorial](https://www.youtube.com/playlist?list=PLKNkd5F7wWym0WBRbDT79N4nQXsDMyx7v). Special thanks to Codebasics for the educational content.
+Built following the [Codebasics Dialogflow tutorial](https://www.youtube.com/watch?v=2e5pQqBvGco&list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX&index=34). Special thanks to Codebasics for the educational content.
 
 ## License
 MIT License
